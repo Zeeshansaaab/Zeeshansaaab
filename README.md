@@ -19,7 +19,7 @@ I'm always looking to collaborate on **web projects, Java desktop applications, 
 ## 📫 Contact Me  
 - 📧 Email: [Zeeshansaaab@gmail.com](mailto:Zeeshansaaab@gmail.com)  
 - 💬 WhatsApp: [+92 307 2255895](https://wa.me/923072255895)  
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/zeeshan-mughal/)  
+- 🔗 LinkedIn: [Zeeshan Mughal](https://www.linkedin.com/in/zeeshan-mughal/)  
 
 ## 📊 GitHub Stats  
 ![Zeeshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zeeshansaaab&show_icons=true&theme=radical)  
