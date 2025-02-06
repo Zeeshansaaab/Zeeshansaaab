@@ -22,7 +22,7 @@ I'm always looking to collaborate on **web projects, Java desktop applications, 
 - 🔗 LinkedIn: [Zeeshan Mughal](https://www.linkedin.com/in/zeeshan-mughal/)  
 
 ## 📊 GitHub Stats  
-![Zeeshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zeeshansaaab&show_icons=true&theme=radical)  
+![Zeeshan's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshansaaab&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshansaaab&layout=compact&theme=radical)  
 
 ---
